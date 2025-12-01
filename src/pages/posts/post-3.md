@@ -15,5 +15,5 @@ I had a minor hickup with setting up SSH key and connection with github, but tha
 
 also look at [FreeCodeCamp](https://www.freecodecamp.org) insane website. really helpfull. 
 
-also have a look at my friend _kaezrr_ bulding [starpsx](https://github.com/kaezrr/starpsx) - A WIP PlayStation 1 emulator written in Rust. 
+also have a look at my friend _kaezrr_ building [starpsx](https://github.com/kaezrr/starpsx) - A WIP PlayStation 1 emulator written in Rust. 
 
