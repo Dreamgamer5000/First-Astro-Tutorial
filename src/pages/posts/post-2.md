@@ -1,4 +1,6 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
+
 title: My Second Blog Post
 author: dream
 description: "After learning some Astro, I couldn't stop!"
@@ -8,7 +10,5 @@ image:
 pubDate: 2025-12-02
 tags: ["astro", "blogging", "learning in public", "successes"]
 ---
-
-# My Second Blog Post
 
 After succesffuly writing my first blog with the learning Astro tutorial, I decided to try some more. They wanted me to fill these pages up. hence I did.
