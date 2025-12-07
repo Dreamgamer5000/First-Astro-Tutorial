@@ -80,8 +80,14 @@ header {
 }
 
 
-:has(.menu[aria-expanded="true"]) .nav-links {
+
+.nav-links {
   display: none;
+}
+
+/* When menu button is expanded → show nav */
+:has(.menu[aria-expanded="true"]) .nav-links {
+  display: block;
 }
 
 
@@ -104,6 +110,10 @@ header {
   header {
     justify-content: center;
     padding: 0.5rem 0.75rem;
+  }
+
+  .nav-links{
+    display: block;
   }
 
   .menu {
