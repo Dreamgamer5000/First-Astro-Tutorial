@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: My Fifth Blog Post
 author: dream
 description: "I made a RSS Feed"
